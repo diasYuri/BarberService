@@ -1,10 +1,10 @@
 # BarberService
 
 
-## Clone o repositorio
+## Clone this repository
 `` git clone https://github.com/diasYuri/BarberService ``
 
-## Instale as dependências
+## Install the dependencies
 `` yarn add  `` or ``npm i``
 
 ## set database configs in src/config/database.js
